@@ -1,1 +1,2 @@
-# textprediction
+# Text Prediction
+My passion for leveraging the power of language and AI is what motivates me in my quest, which is focused on text prediction using tokenization and TensorFlow. Using my expertise in breaking down language into meaningful tokens and TensorFlow's brilliance, I develop models that can anticipate and produce coherent and contextually rich text. I work with chatbots, programming, translation, and other things. Additionally, it entails designing original text production systems and training cutting-edge neural networks. Join me as I explore the cutting edge of AI-driven language development in an effort to enhance user experiences and revolutionize content creation.
